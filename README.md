@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veli Emre Çetin</h1>
-<h3 align="center">Unity & C# Developer From Turkey</h3>
+<h3 align="center">Developer from Turkey that is focused on C# and Game Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
