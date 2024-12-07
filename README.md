@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,py,go,mysql,notion" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,java,mysql" />
   </a>
 </p>
 
